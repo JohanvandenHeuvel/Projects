@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\name-and-value pairs\name-and-value pairs\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\name-and-value pairs\name-and-value pairs\source.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Name-and-value pairs.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Name-and-value pairs\Debug\Name-and-value pairs.exe
+  Name-and-value pairs.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Name-and-value pairs\Debug\Name-and-value pairs.pdb (Full PDB)

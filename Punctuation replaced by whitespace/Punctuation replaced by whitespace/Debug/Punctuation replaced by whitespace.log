@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\punctuation replaced by whitespace\punctuation replaced by whitespace\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\punctuation replaced by whitespace\punctuation replaced by whitespace\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\punctuation replaced by whitespace\punctuation replaced by whitespace\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  Punctuation replaced by whitespace.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Punctuation replaced by whitespace\Debug\Punctuation replaced by whitespace.exe
+  Punctuation replaced by whitespace.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Punctuation replaced by whitespace\Debug\Punctuation replaced by whitespace.pdb (Full PDB)

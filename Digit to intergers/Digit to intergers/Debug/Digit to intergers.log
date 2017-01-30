@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\digit to intergers\digit to intergers\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\digit to intergers\digit to intergers\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\digit to intergers\digit to intergers\source.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  Digit to intergers.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Digit to intergers\Debug\Digit to intergers.exe
+  Digit to intergers.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Digit to intergers\Debug\Digit to intergers.pdb (Full PDB)

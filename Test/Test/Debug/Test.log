@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\test\test\source.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\test\test\source.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\test\test\source.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\test\test\source.cpp(104): warning C4715: 'Token_stream::get': not all control paths return a value
+c:\users\johan\documents\visual studio 2015\projects\test\test\source.cpp(159): warning C4715: 'Symbol_table::get': not all control paths return a value
+c:\users\johan\documents\visual studio 2015\projects\test\test\source.cpp(267): warning C4715: 'primary': not all control paths return a value
+LINK : warning LNK4076: invalid incremental status file 'C:\Users\johan\documents\visual studio 2015\Projects\Test\Debug\Test.ilk' (which will be deleted); linking nonincrementally
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Test.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Test\Debug\Test.exe
+  Test.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Test\Debug\Test.pdb (Full PDB)

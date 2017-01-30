@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\numbers guessing game\numbers guessing game\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Numbers guessing game.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Numbers guessing game\Debug\Numbers guessing game.exe

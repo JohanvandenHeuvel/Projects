@@ -1,0 +1,11 @@
+﻿  Source.cpp
+  Library.cpp
+c:\users\johan\documents\visual studio 2015\projects\library\library\library.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\library\library\library.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\library\library\library.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\library\library\library.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\library\library\library.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\johan\documents\visual studio 2015\projects\library\library\library.cpp(36): warning C4715: 'gerneChoice': not all control paths return a value
+  Library.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Library\Debug\Library.exe
+  Library.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Library\Debug\Library.pdb (Full PDB)

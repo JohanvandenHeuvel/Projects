@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\test_output\test_output\source.cpp(15): warning C4018: '>': signed/unsigned mismatch
+  Test_Output.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Test_Output\Debug\Test_Output.exe
+  Test_Output.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Test_Output\Debug\Test_Output.pdb (Full PDB)

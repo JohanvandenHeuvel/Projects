@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\coin toss program\coin toss program\source.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Coin toss program.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Coin toss program\Debug\Coin toss program.exe
+  Coin toss program.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Coin toss program\Debug\Coin toss program.pdb (Full PDB)

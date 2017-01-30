@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\calculator 1.0\calculator 1.0\source.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\johan\documents\visual studio 2015\projects\calculator 1.0\calculator 1.0\source.cpp(93): warning C4715: 'Token_stream::get': not all control paths return a value
+c:\users\johan\documents\visual studio 2015\projects\calculator 1.0\calculator 1.0\source.cpp(129): warning C4715: 'primary': not all control paths return a value
+  Calculator 1.0.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Calculator 1.0\Debug\Calculator 1.0.exe
+  Calculator 1.0.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Calculator 1.0\Debug\Calculator 1.0.pdb (Full PDB)

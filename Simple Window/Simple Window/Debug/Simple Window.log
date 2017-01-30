@@ -1,0 +1,2 @@
+﻿  Source.cpp
+LINK : fatal error LNK1104: cannot open file 'fltkd.lib wsock32.lib comctl32.lib fltkjpegd.lib fltkimages.lib'

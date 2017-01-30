@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\miles to kilometers converter\miles to kilometers converter\source.cpp(9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Miles to kilometers converter.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Miles to kilometers converter\Debug\Miles to kilometers converter.exe

@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\bulls and cows 2.0\bulls and cows 2.0\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\bulls and cows 2.0\bulls and cows 2.0\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\bulls and cows 2.0\bulls and cows 2.0\source.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\bulls and cows 2.0\bulls and cows 2.0\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\bulls and cows 2.0\bulls and cows 2.0\source.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\johan\documents\visual studio 2015\projects\bulls and cows 2.0\bulls and cows 2.0\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\bulls and cows 2.0\bulls and cows 2.0\source.cpp(45): warning C4715: 'check_guess': not all control paths return a value
+  Bulls and Cows 2.0.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Bulls and Cows 2.0\Debug\Bulls and Cows 2.0.exe
+  Bulls and Cows 2.0.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Bulls and Cows 2.0\Debug\Bulls and Cows 2.0.pdb (Full PDB)

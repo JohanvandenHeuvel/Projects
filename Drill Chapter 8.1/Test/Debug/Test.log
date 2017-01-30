@@ -1,0 +1,3 @@
+﻿my.obj : error LNK2001: unresolved external symbol "int foo" (?foo@@3HA)
+use.obj : error LNK2001: unresolved external symbol "int foo" (?foo@@3HA)
+c:\users\johan\documents\visual studio 2015\Projects\Test\Debug\Test.exe : fatal error LNK1120: 1 unresolved externals

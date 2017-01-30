@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\calculator 0.0\calculator 0.0\source.cpp(73): warning C4715: 'primary': not all control paths return a value
+c:\users\johan\documents\visual studio 2015\projects\calculator 0.0\calculator 0.0\source.cpp(45): warning C4715: 'get_token': not all control paths return a value
+  Calculator 0.0.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Calculator 0.0\Debug\Calculator 0.0.exe
+  Calculator 0.0.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Calculator 0.0\Debug\Calculator 0.0.pdb (Full PDB)

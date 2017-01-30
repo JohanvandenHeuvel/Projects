@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\book class\book class\source.cpp(134): warning C4715: 'genreString': not all control paths return a value
+  Book class.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Book class\Debug\Book class.exe
+  Book class.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Book class\Debug\Book class.pdb (Full PDB)

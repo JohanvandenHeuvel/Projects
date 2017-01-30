@@ -1,0 +1,4 @@
+﻿  Money.cpp
+c:\users\johan\documents\visual studio 2015\projects\money class\money class\money.cpp(92): warning C4018: '>': signed/unsigned mismatch
+  Money class.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Money class\Debug\Money class.exe
+  Money class.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Money class\Debug\Money class.pdb (Full PDB)

@@ -1,0 +1,33 @@
+﻿  Chrono.cpp
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(39): error C2143: syntax error: missing ';' before '&'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(39): error C2065: 'os': undeclared identifier
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(39): error C2059: syntax error: 'const'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(40): error C2143: syntax error: missing ';' before '&'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(40): error C2065: 'is': undeclared identifier
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(40): error C2059: syntax error: 'const'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(42): error C2146: syntax error: missing ';' before identifier 'day_of_week'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(83): error C2143: syntax error: missing ';' before '&'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(83): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(83): error C2086: 'int Chrono::ostream': redefinition
+  c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(39): note: see declaration of 'Chrono::ostream'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(83): error C2065: 'os': undeclared identifier
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(83): error C2059: syntax error: 'const'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(84): error C2143: syntax error: missing ';' before '{'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(84): error C2447: '{': missing function header (old-style formal list?)
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(90): error C2143: syntax error: missing ';' before '&'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(90): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(90): error C2086: 'int Chrono::istream': redefinition
+  c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(40): note: see declaration of 'Chrono::istream'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(90): error C2065: 'is': undeclared identifier
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(90): error C2059: syntax error: 'const'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(91): error C2143: syntax error: missing ';' before '{'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(91): error C2447: '{': missing function header (old-style formal list?)
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(110): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(110): error C2086: 'int Chrono::Day': redefinition
+  c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.h(42): note: see declaration of 'Chrono::Day'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(110): error C2146: syntax error: missing ';' before identifier 'day_of_week'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(111): error C2143: syntax error: missing ';' before '{'
+c:\users\johan\documents\visual studio 2015\projects\date\date\chrono.cpp(111): error C2447: '{': missing function header (old-style formal list?)

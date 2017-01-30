@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\drill chapter 9\drill chapter 9\source.cpp(190): warning C4715: 'nameMonth': not all control paths return a value
+  Drill Chapter 9.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Drill Chapter 9\Debug\Drill Chapter 9.exe
+  Drill Chapter 9.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\Drill Chapter 9\Debug\Drill Chapter 9.pdb (Full PDB)

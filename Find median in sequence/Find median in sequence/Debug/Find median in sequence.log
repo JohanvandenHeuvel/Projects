@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\find median in sequence\find median in sequence\source.cpp(18): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\johan\documents\visual studio 2015\projects\find median in sequence\find median in sequence\source.cpp(19): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Find median in sequence.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Find median in sequence\Debug\Find median in sequence.exe

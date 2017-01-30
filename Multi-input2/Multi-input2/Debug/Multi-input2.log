@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\multi-input2\multi-input2\source.cpp(28): warning C4715: 'operator<<': not all control paths return a value
+  Multi-input2.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Multi-input2\Debug\Multi-input2.exe
+  Multi-input2.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Multi-input2\Debug\Multi-input2.pdb (Full PDB)

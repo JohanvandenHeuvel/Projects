@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\basic calculator with written numbers\basic calculator with written numbers\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\basic calculator with written numbers\basic calculator with written numbers\source.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\johan\documents\visual studio 2015\projects\basic calculator with written numbers\basic calculator with written numbers\source.cpp(55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Basic calculator with written numbers.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Basic calculator with written numbers\Debug\Basic calculator with written numbers.exe

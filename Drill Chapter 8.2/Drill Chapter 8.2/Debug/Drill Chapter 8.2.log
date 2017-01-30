@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\drill chapter 8.2\drill chapter 8.2\source.cpp(23): error C3892: 'a': you cannot assign to a variable that is const
+c:\users\johan\documents\visual studio 2015\projects\drill chapter 8.2\drill chapter 8.2\source.cpp(24): error C3892: 'b': you cannot assign to a variable that is const
+c:\users\johan\documents\visual studio 2015\projects\drill chapter 8.2\drill chapter 8.2\source.cpp(36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\johan\documents\visual studio 2015\projects\drill chapter 8.2\drill chapter 8.2\source.cpp(39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\johan\documents\visual studio 2015\projects\drill chapter 8.2\drill chapter 8.2\source.cpp(40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data

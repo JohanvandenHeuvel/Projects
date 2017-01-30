@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\price and weight\price and weight\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+  Price and Weight.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Price and Weight\Debug\Price and Weight.exe
+  Price and Weight.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Price and Weight\Debug\Price and Weight.pdb (Full PDB)

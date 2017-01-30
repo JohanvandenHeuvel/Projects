@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\chapter 8 excersises\chapter 8 excersises\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\chapter 8 excersises\chapter 8 excersises\source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+  Chapter 8 excersises.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Chapter 8 excersises\Debug\Chapter 8 excersises.exe
+  Chapter 8 excersises.vcxproj -> C:\Users\johan\Documents\Visual Studio 2015\Projects\Chapter 8 excersises\Debug\Chapter 8 excersises.pdb (Full PDB)

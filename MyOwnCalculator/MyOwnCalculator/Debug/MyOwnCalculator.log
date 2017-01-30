@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\myowncalculator\myowncalculator\source.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\myowncalculator\myowncalculator\source.cpp(269): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\johan\documents\visual studio 2015\projects\myowncalculator\myowncalculator\source.cpp(121): warning C4715: 'Token_stream::get': not all control paths return a value
+c:\users\johan\documents\visual studio 2015\projects\myowncalculator\myowncalculator\source.cpp(173): warning C4715: 'Symbol_table::get': not all control paths return a value
+c:\users\johan\documents\visual studio 2015\projects\myowncalculator\myowncalculator\source.cpp(277): warning C4715: 'primary': not all control paths return a value
+  MyOwnCalculator.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\MyOwnCalculator\Debug\MyOwnCalculator.exe
+  MyOwnCalculator.vcxproj -> C:\Users\johan\documents\visual studio 2015\Projects\MyOwnCalculator\Debug\MyOwnCalculator.pdb (Full PDB)

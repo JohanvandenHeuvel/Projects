@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\johan\documents\visual studio 2015\projects\name and age pair\name and age pair\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\name and age pair\name and age pair\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\name and age pair\name and age pair\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\name and age pair\name and age pair\source.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\johan\documents\visual studio 2015\projects\name and age pair\name and age pair\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Name and Age pair.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Name and Age pair\Debug\Name and Age pair.exe
+  Name and Age pair.vcxproj -> c:\users\johan\documents\visual studio 2015\Projects\Name and Age pair\Debug\Name and Age pair.pdb (Full PDB)
